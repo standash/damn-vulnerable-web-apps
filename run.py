@@ -3,8 +3,6 @@
 import sys, os.path
 from modules.Engine import Engine
 
-app_name = "honeypot"
-
 def print_usage():
     print("\nUSAGE: ./run.py [app_name] [guest_port] [host_port]")
     print("EXAMPLE: ./run.py xssstored 8888 80\n")
