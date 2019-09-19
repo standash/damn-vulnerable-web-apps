@@ -55,6 +55,8 @@ When you deploy an app for the first time, it may take a while for Docker to bui
 The above command will deploy the NodeGoat app with Docker. To start playing with the app, open your web 
 browser and navigate to "http://localhost"
 
+![](qwe.gif)
+
 ### Adding more apps
 
 - Take the sources/executables of a vulnerable app and compress them into a .zip archive.
