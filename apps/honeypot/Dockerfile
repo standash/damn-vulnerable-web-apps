@@ -13,5 +13,4 @@ RUN cd /var/www ; npm install -d && \
     chmod +x /var/www/run.sh
 
 EXPOSE 8888
-EXPOSE 27017
 CMD cd /var/www && ./run.sh

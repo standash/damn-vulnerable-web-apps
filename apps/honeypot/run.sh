@@ -1,7 +1,6 @@
 #!/bin/bash
 
 nodejs &
-mongod &
 
 export logpath=/var/log/mongodb
 export logfile=$logpath/mongodb.log
